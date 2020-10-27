@@ -1,0 +1,9 @@
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/Ng5ApiApplication.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/model/Answer.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/model/Question.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/controller/QuestionController.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/controller/AnswerController.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/repository/AnswerRepository.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/repository/QuestionRepository.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/model/AuditModel.java
+/home/alexi/Escritorio/project-demo-bueno/src/main/java/com/example/ng5api/exception/ResourceNotFoundException.java
